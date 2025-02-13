@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, SQL and R
 - 🌱 I’m currently learning programming logic and algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in insta @aster1x_o
+- 📫 How to reach me in insta @isaque.zdata
 - 😄 Pronouns: fuck
 - ⚡ Fun fact: I also study zootechnics🤠
 
