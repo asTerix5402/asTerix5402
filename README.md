@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @asTerix5402
-- 👀 I’m interested in Excel, SQL and Python
+- 👋 Hi, I’m @isaquests
+- 👀 I’m interested in Power BI, Excel, SQL and Python
 - 🌱 I’m currently learning programming logic and algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in insta @isaque.zdata
